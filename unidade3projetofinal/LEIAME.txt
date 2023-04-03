@@ -1,0 +1,9 @@
+Para compilar e executar o programa, siga os seguintes passos:
+
+Certifique-se de que possui um compilador C++ instalado em seu sistema (por exemplo, o GCC no Linux ou o Microsoft Visual Studio 2022 no Windows).
+Certifique-se de ter instalado as bibliotecas OpenGL, GLFW e GLM em seu sistema.
+Copie e cole o código-fonte em um arquivo com extensão .cpp (por exemplo, main.cpp).
+Compile o código usando o compilador C++. No Linux, abra um terminal, navegue até o diretório que contém o arquivo .cpp e digite o seguinte comando: g++ -o programa main.cpp -lGL -lGLU -lglut -lglfw -lglm. No Windows, abra o Visual Studio, crie um novo projeto do tipo Console Application e copie o código-fonte no arquivo principal do projeto. Em seguida, adicione as bibliotecas OpenGL, GLFW, GLUT e GLM ao projeto.
+Execute o programa compilado digitando o seguinte comando no terminal do Linux: ./programa. No Windows, execute o programa a partir do Visual Studio ou navegue até a pasta que contém o arquivo executável e clique duas vezes nele.
+Observação: as instruções acima são apenas um guia geral. Dependendo do seu sistema operacional e ambiente de desenvolvimento, as etapas podem variar. Certifique-se de consultar os documentos do seu compilador e das bibliotecas OpenGL, GLFW, GLUT e GLM para obter instruções específicas.
+
