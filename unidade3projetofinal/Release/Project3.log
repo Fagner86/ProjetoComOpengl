@@ -1,0 +1,24 @@
+﻿  Origem.cpp
+C:\projetosgraphics\projetofinalopg\tentando2\unidadeIII\Origem.cpp(5,10): warning C4067: tokens inesperados após diretiva de pré-processador - esperado um newline
+Origem.obj : error LNK2001: símbolo externo não resolvido ___CxxFrameHandler3
+Origem.obj : error LNK2001: símbolo externo não resolvido @__security_check_cookie@4
+Origem.obj : error LNK2001: símbolo externo não resolvido _glfwSwapBuffers
+Origem.obj : error LNK2001: símbolo externo não resolvido ___std_exception_destroy
+Origem.obj : error LNK2001: símbolo externo não resolvido _glfwGetTime
+Origem.obj : error LNK2001: símbolo externo não resolvido _glfwGetKey
+Origem.obj : error LNK2001: símbolo externo não resolvido "void * __cdecl operator new(unsigned int)" (??2@YAPAXI@Z)
+Origem.obj : error LNK2001: símbolo externo não resolvido _glfwGetFramebufferSize
+Origem.obj : error LNK2001: símbolo externo não resolvido _glfwTerminate
+Origem.obj : error LNK2001: símbolo externo não resolvido _glfwPollEvents
+Origem.obj : error LNK2001: símbolo externo não resolvido ___std_exception_copy
+Origem.obj : error LNK2001: símbolo externo não resolvido _glfwInit
+Origem.obj : error LNK2001: símbolo externo não resolvido _glfwSetWindowShouldClose
+Origem.obj : error LNK2001: símbolo externo não resolvido _glfwCreateWindow
+Origem.obj : error LNK2001: símbolo externo não resolvido "void __cdecl operator delete(void *,unsigned int)" (??3@YAXPAXI@Z)
+Origem.obj : error LNK2001: símbolo externo não resolvido _glfwMakeContextCurrent
+Origem.obj : error LNK2001: símbolo externo não resolvido ___std_terminate
+Origem.obj : error LNK2001: símbolo externo não resolvido "const type_info::`vftable'" (??_7type_info@@6B@)
+Origem.obj : error LNK2001: símbolo externo não resolvido _glfwWindowShouldClose
+Origem.obj : error LNK2001: símbolo externo não resolvido __imp___invalid_parameter_noinfo_noreturn
+LINK : error LNK2001: símbolo externo não resolvido _mainCRTStartup
+C:\projetosgraphics\projetofinalopg\tentando2\unidadeIII\Release\Project3.exe : fatal error LNK1120: 21 externo não resolvidos

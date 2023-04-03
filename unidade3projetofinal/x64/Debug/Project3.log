@@ -1,0 +1,53 @@
+﻿  Origem.cpp
+C:\projetosgraphics\projetofinal\projeto\unidadeIII\primitivas.h(10,10): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
+C:\projetosgraphics\projetofinal\projeto\unidadeIII\primitivas.h(14,27): warning C4305: 'argumento': truncamento de 'double' para 'GLfloat'
+C:\projetosgraphics\projetofinal\projeto\unidadeIII\primitivas.h(23,27): warning C4305: 'argumento': truncamento de 'double' para 'GLfloat'
+C:\projetosgraphics\projetofinal\projeto\unidadeIII\primitivas.h(50,25): warning C4305: 'argumento': truncamento de 'double' para 'GLfloat'
+C:\projetosgraphics\projetofinal\projeto\unidadeIII\primitivas.h(59,28): warning C4305: 'argumento': truncamento de 'double' para 'GLfloat'
+C:\projetosgraphics\projetofinal\projeto\unidadeIII\primitivas.h(131,25): warning C4305: '=': truncamento de 'double' para 'float'
+C:\projetosgraphics\projetofinal\projeto\unidadeIII\primitivas.h(180,41): warning C4305: 'inicializando': truncamento de 'double' para 'float'
+C:\projetosgraphics\projetofinal\projeto\unidadeIII\primitivas.h(194,20): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
+C:\projetosgraphics\projetofinal\projeto\unidadeIII\primitivas.h(230,44): warning C4305: 'inicializando': truncamento de 'double' para 'float'
+C:\projetosgraphics\projetofinal\projeto\unidadeIII\primitivas.h(233,10): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
+C:\projetosgraphics\projetofinal\projeto\unidadeIII\primitivas.h(234,10): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
+C:\projetosgraphics\projetofinal\projeto\unidadeIII\primitivas.h(235,10): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
+C:\projetosgraphics\projetofinal\projeto\unidadeIII\primitivas.h(240,20): warning C4244: 'argumento': conversão de 'double' para 'GLfloat', possível perda de dados
+C:\projetosgraphics\projetofinal\projeto\unidadeIII\primitivas.h(246,24): warning C4244: 'argumento': conversão de 'double' para 'GLfloat', possível perda de dados
+C:\projetosgraphics\projetofinal\projeto\unidadeIII\primitivas.h(249,31): warning C4244: 'argumento': conversão de 'double' para 'GLfloat', possível perda de dados
+C:\projetosgraphics\projetofinal\projeto\unidadeIII\primitivas.h(249,16): warning C4244: 'argumento': conversão de 'double' para 'GLfloat', possível perda de dados
+C:\projetosgraphics\projetofinal\projeto\unidadeIII\primitivas.h(250,30): warning C4244: 'argumento': conversão de 'double' para 'GLfloat', possível perda de dados
+C:\projetosgraphics\projetofinal\projeto\unidadeIII\primitivas.h(250,15): warning C4244: 'argumento': conversão de 'double' para 'GLfloat', possível perda de dados
+C:\projetosgraphics\projetofinal\projeto\unidadeIII\primitivas.h(254,30): warning C4244: 'argumento': conversão de 'double' para 'GLfloat', possível perda de dados
+C:\projetosgraphics\projetofinal\projeto\unidadeIII\primitivas.h(254,15): warning C4244: 'argumento': conversão de 'double' para 'GLfloat', possível perda de dados
+C:\projetosgraphics\projetofinal\projeto\unidadeIII\primitivas.h(255,29): warning C4244: 'argumento': conversão de 'double' para 'GLfloat', possível perda de dados
+C:\projetosgraphics\projetofinal\projeto\unidadeIII\primitivas.h(255,15): warning C4244: 'argumento': conversão de 'double' para 'GLfloat', possível perda de dados
+C:\projetosgraphics\projetofinal\projeto\unidadeIII\primitivas.h(259,29): warning C4244: 'argumento': conversão de 'double' para 'GLfloat', possível perda de dados
+C:\projetosgraphics\projetofinal\projeto\unidadeIII\primitivas.h(259,15): warning C4244: 'argumento': conversão de 'double' para 'GLfloat', possível perda de dados
+C:\projetosgraphics\projetofinal\projeto\unidadeIII\primitivas.h(260,30): warning C4244: 'argumento': conversão de 'double' para 'GLfloat', possível perda de dados
+C:\projetosgraphics\projetofinal\projeto\unidadeIII\primitivas.h(260,16): warning C4244: 'argumento': conversão de 'double' para 'GLfloat', possível perda de dados
+C:\projetosgraphics\projetofinal\projeto\unidadeIII\primitivas.h(264,30): warning C4244: 'argumento': conversão de 'double' para 'GLfloat', possível perda de dados
+C:\projetosgraphics\projetofinal\projeto\unidadeIII\primitivas.h(264,16): warning C4244: 'argumento': conversão de 'double' para 'GLfloat', possível perda de dados
+C:\projetosgraphics\projetofinal\projeto\unidadeIII\primitivas.h(265,31): warning C4244: 'argumento': conversão de 'double' para 'GLfloat', possível perda de dados
+C:\projetosgraphics\projetofinal\projeto\unidadeIII\primitivas.h(265,16): warning C4244: 'argumento': conversão de 'double' para 'GLfloat', possível perda de dados
+C:\projetosgraphics\projetofinal\projeto\unidadeIII\primitivas.h(272,23): warning C4244: 'argumento': conversão de 'double' para 'GLfloat', possível perda de dados
+C:\projetosgraphics\projetofinal\projeto\unidadeIII\primitivas.h(275,16): warning C4244: 'argumento': conversão de 'double' para 'GLfloat', possível perda de dados
+C:\projetosgraphics\projetofinal\projeto\unidadeIII\primitivas.h(276,15): warning C4244: 'argumento': conversão de 'double' para 'GLfloat', possível perda de dados
+C:\projetosgraphics\projetofinal\projeto\unidadeIII\primitivas.h(277,24): warning C4244: 'argumento': conversão de 'double' para 'GLfloat', possível perda de dados
+C:\projetosgraphics\projetofinal\projeto\unidadeIII\primitivas.h(277,15): warning C4244: 'argumento': conversão de 'double' para 'GLfloat', possível perda de dados
+C:\projetosgraphics\projetofinal\projeto\unidadeIII\primitivas.h(278,25): warning C4244: 'argumento': conversão de 'double' para 'GLfloat', possível perda de dados
+C:\projetosgraphics\projetofinal\projeto\unidadeIII\primitivas.h(278,16): warning C4244: 'argumento': conversão de 'double' para 'GLfloat', possível perda de dados
+C:\projetosgraphics\projetofinal\projeto\unidadeIII\primitivas.h(363,48): warning C4305: 'inicializando': truncamento de 'double' para 'float'
+C:\projetosgraphics\projetofinal\projeto\unidadeIII\Origem.cpp(39,18): warning C4305: '+=': truncamento de 'double' para 'float'
+C:\projetosgraphics\projetofinal\projeto\unidadeIII\Origem.cpp(40,23): warning C4305: '+=': truncamento de 'double' para 'float'
+C:\projetosgraphics\projetofinal\projeto\unidadeIII\Origem.cpp(49,26): warning C4305: '+=': truncamento de 'double' para 'float'
+C:\projetosgraphics\projetofinal\projeto\unidadeIII\Origem.cpp(50,27): warning C4305: '+=': truncamento de 'double' para 'float'
+C:\projetosgraphics\projetofinal\projeto\unidadeIII\Origem.cpp(65,23): warning C4305: '-=': truncamento de 'double' para 'float'
+C:\projetosgraphics\projetofinal\projeto\unidadeIII\Origem.cpp(66,18): warning C4305: '-=': truncamento de 'double' para 'float'
+C:\projetosgraphics\projetofinal\projeto\unidadeIII\Origem.cpp(71,27): warning C4305: '-=': truncamento de 'double' para 'float'
+C:\projetosgraphics\projetofinal\projeto\unidadeIII\Origem.cpp(72,27): warning C4305: '-=': truncamento de 'double' para 'float'
+C:\projetosgraphics\projetofinal\projeto\unidadeIII\Origem.cpp(74,27): warning C4305: '=': truncamento de 'double' para 'float'
+C:\projetosgraphics\projetofinal\projeto\unidadeIII\Origem.cpp(77,25): warning C4305: '=': truncamento de 'double' para 'float'
+C:\projetosgraphics\projetofinal\projeto\unidadeIII\Origem.cpp(81,21): warning C4305: '=': truncamento de 'double' para 'float'
+C:\projetosgraphics\projetofinal\projeto\unidadeIII\Origem.cpp(179,22): warning C4305: '-=': truncamento de 'double' para 'float'
+C:\projetosgraphics\projetofinal\projeto\unidadeIII\Origem.cpp(184,22): warning C4305: '+=': truncamento de 'double' para 'float'
+  Project3.vcxproj -> C:\projetosgraphics\projetofinal\projeto\unidadeIII\x64\Debug\Project3.exe
